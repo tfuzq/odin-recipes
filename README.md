@@ -1,5 +1,13 @@
 # odin-recipes
 
-This website will consist of what I have learned about HTML over the foundations of the odin project. 
+This website consist of what I have learned about HTML so far in the Odin Project.
 
-This includes, a index page (home page) which then links to each of the recipes. Each recipe follows the same template.
+
+Skills I have demonstrated 
+
+Document structure 
+Lists, unordered and ordered
+HTML boilerplate
+Text formatting
+Images 
+Linking pages together
